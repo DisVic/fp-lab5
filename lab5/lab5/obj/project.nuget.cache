@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HORAUOsK15PnaENwkeAqhzf7N4a8K7lKlwGfQu8wLynH6wLRrfFYfuHpKg9pPA2WZvCIrSp6Q/nxQ9hsBft0ZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Виктор\\Desktop\\Для института\\Функциональное программирование\\fp-lab5\\lab5\\lab5\\lab5.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Виктор\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
