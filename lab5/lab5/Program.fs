@@ -30,3 +30,4 @@ printfn "Факториал 5: %d" (factorial 5)
 
 printfn "Прибавление 10 к 5: %d" (addTen 5)
 printfn "Умножение 3 на 5: %d" (multiplyByFive 3)
+

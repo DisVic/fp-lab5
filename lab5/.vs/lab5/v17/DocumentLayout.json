@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0414\u043B\u044F \u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\u0430\\\u0424\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\fp-lab5\\lab5\\",
+  "WorkspaceRootPath": "C:\\fp-lab5\\lab5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D5DDE55-D963-4ACB-8D65-9014CCC962C2}|lab5\\lab5.fsproj|c:\\users\\\u0432\u0438\u043A\u0442\u043E\u0440\\desktop\\\u0434\u043B\u044F \u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\u0430\\\u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\fp-lab5\\lab5\\lab5\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
-      "RelativeMoniker": "D:0:0:{8D5DDE55-D963-4ACB-8D65-9014CCC962C2}|lab5\\lab5.fsproj|solutionrelative:lab5\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+      "AbsoluteMoniker": "D:0:0:{5E3EE0F2-0DB8-47F4-9294-8211C32F3EA7}|lab5\\lab5.fsproj|c:\\fp-lab5\\lab5\\lab5\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{5E3EE0F2-0DB8-47F4-9294-8211C32F3EA7}|lab5\\lab5.fsproj|solutionrelative:lab5\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.fs",
-              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0414\u043B\u044F \u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\u0430\\\u0424\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\fp-lab5\\lab5\\lab5\\Program.fs",
+              "DocumentMoniker": "C:\\fp-lab5\\lab5\\lab5\\Program.fs",
               "RelativeDocumentMoniker": "lab5\\Program.fs",
-              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0442\u043E\u0440\\Desktop\\\u0414\u043B\u044F \u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\u0430\\\u0424\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\fp-lab5\\lab5\\lab5\\Program.fs",
+              "ToolTip": "C:\\fp-lab5\\lab5\\lab5\\Program.fs",
               "RelativeToolTip": "lab5\\Program.fs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-29T20:21:59.827Z",
+              "WhenOpened": "2024-11-21T21:46:21.388Z",
               "EditorCaption": ""
             }
           ]
